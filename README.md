@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on **Survivor-like with Godot**
+- 🔭 I’m currently working on **a game Survivor-like with Godot**
 
 - 👨‍💻 All of my projects are available at [https://louis-vigneron.netlify.app/](https://louis-vigneron.netlify.app/)
 
